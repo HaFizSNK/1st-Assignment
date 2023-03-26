@@ -1,0 +1,157 @@
+
+*{
+
+    margin: 0%;
+    padding: 0%;
+}.nav{
+    background-color: black;
+    color: antiquewhite;
+    justify-content: center;
+    text-align: center;
+    ;
+}
+.nav-item{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+padding: 10px;
+}
+.btn{
+    height: 30px;
+    width: 100px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    color: antiquewhite;
+    text-align: center;
+    background-color: blue;
+}
+.nav-item a{
+    color: beige;
+}
+.nav-item a:hover{
+    background-color: white;
+    color: yellow;
+    border-radius: 10px;
+}
+.home{
+    padding-top:20%;
+
+    position: fix;
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+    display: block;
+    background-image: url(https://tse2.mm.bing.net/th?id=OIP.fd9fuCTWMZCshLuHaFkd_gHaEo&pid=Api&P=0);
+}
+.form{
+    margin-left: 30px;
+     color: antiquewhite;
+     font-size: 30px;
+}
+.firm1{
+
+    color: red;
+    margin-left: 30px;
+}
+.container-fluid{
+    
+    height: 700px;
+    width: 100%;
+
+}
+.row
+{
+   color: blue ;
+      color: black;
+      width: 100%;
+      margin-top: 50px;
+}
+
+.col-9{
+   
+    
+    width: 50%;
+}
+.col-3 a{
+color: red;
+margin-left: 30px;
+
+}
+.col6{
+    background-color: aliceblue;
+margin-top: 30px;
+}
+.col6 ul{
+    margin-top: 50px;
+    display: flex;
+    list-style: none;
+    gap: 30px ;
+
+
+}
+.background2{
+   
+    background-image: url(https://intertechnologya.com/wp-content/uploads/2019/04/Mobile-Websites.png);
+    height: 300px;
+    padding: 20px;
+    
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: white;
+    justify-content: center;
+    text-align: left;
+    padding: 20px;
+    margin-top: 30px;
+    }
+    .bn{
+        margin-top: 20px;
+        color: white;
+        height: 70px;
+        width: 200px;
+        background-color:transparent;
+    border-color:white;
+    border-radius: 2px solid white;
+    }
+    .bn a{
+        text-decoration: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+.back{
+    background-image: url(https://tse4.mm.bing.net/th?id=OIP.yGYzFC7BKct8JGF59s2e6AHaEL&pid=Api&P=0);
+    
+    height: 300px;
+    padding: 20px;
+    
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: white;
+    justify-content: center;
+    text-align: left;
+    padding: 20px;
+    margin-top: 30px;
+    }
+    .bn{
+        margin-top: 20px;
+        color: white;
+        height: 70px;
+        width: 200px;
+        background-color:transparent;
+    border-color:white;
+    border-radius: 2px solid white;
+    }
+    .bn a{
+        text-decoration: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+
+
+
+.footer{
+    background-color: blue;
+    color: yellow;
+}
